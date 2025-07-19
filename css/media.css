@@ -316,6 +316,10 @@
     padding: 0 16px;
   }
 
+  .is-open {
+    display: none;
+  }
+
   .nav-list-tel {
     display: flex;
     flex-direction: column;
