@@ -372,6 +372,14 @@
   .modal-comment {
     margin-bottom: 0;
   }
+
+  .adres-tel-email {
+    color: #434455;
+  }
+
+  .adres-tel {
+    color: #4d5ae5;
+  }
 }
 
 @media (min-width: 320px) and (max-width: 767px) and (min-resolution: 2x) {
